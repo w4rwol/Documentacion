@@ -10,7 +10,7 @@ Primero descargaremos el instalador Git desde la página oficial.
 
 Durante la instalación entre otras cosas nos preguntará que editor usaremos. En mi caso usaré Visual Studio Code.
 
-![Alt text](../../../../../V:/Curso/Administraci%C3%B3n%20en%20nube/Principal/Principal/img/Git/1.png)
+![AltText](./img/Git/1.png)
 
 Lo demás lo podemos dejar por defecto (a fecha de 25/11/22)
 
