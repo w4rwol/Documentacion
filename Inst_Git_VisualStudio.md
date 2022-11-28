@@ -146,3 +146,7 @@ Cuando hayamos hecho cambios en nuestro repositorio local, debemos confirmarlos 
 Hacer commit e insertar = Guardar localmente y hacer push (actualizar en GitHub)  
 Hacer commit y sincronizar = Guardar localmente y hacer pull (actualiza tu repositorio local)
 
+Al confirmar nos pedirá que pongamos un comentario acerca del cambio efectuado. Cuando terminemos haz clic en el tick verde arriba derecha.
+
+![a](./img/Git/6.png)
+
