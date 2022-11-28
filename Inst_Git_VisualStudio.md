@@ -150,3 +150,9 @@ Al confirmar nos pedirá que pongamos un comentario acerca del cambio efectuado.
 
 ![a](./img/Git/6.png)
 
+## EXTENSIONES
+
+Le he instalado estas extensiones:
+
+Spanish - Code Spell Checker: Diccionario de palabras.  
+markdownlint: Para cumplir con el formato MD.
