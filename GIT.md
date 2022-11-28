@@ -49,7 +49,7 @@ git init --initial-branch=main
 git init -b main 
 ```
 
-Nos debe indicar que se ha inicializado un repositorio vacio y su rama es la principal. Podemos ver las ramas con el comando:
+Nos debe indicar que se ha inicializado un repositorio vacío y su rama es la principal. Podemos ver las ramas con el comando:
 
 ```md
 git status
@@ -67,7 +67,7 @@ Revisa si se han producido cambios y los guarda de manera temporal a la espera d
 
 ### GIT COMMIT
 
-Despues de revisar si hubo cambios se deben confirmar con este comando guardandolos como una nueva versión.
+Después de revisar si hubo cambios se deben confirmar con este comando guardándolos como una nueva versión.
 
 ### GIT LOG
 
@@ -80,7 +80,3 @@ Comando básico de ayuda. Para ver las opciones de cada uno de los comandos usa:
 ```php
 git <comando> --help
 ```
-
-
-
-
