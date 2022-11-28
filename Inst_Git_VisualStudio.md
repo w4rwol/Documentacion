@@ -132,11 +132,11 @@ Tres comillas + lenguaje y se cierra con otras tres comillas.
 
 `sudo apt-get install`
 
-## COMO LINKEAR IMÁGENES FÁCILMENTE
+## COMO ENLAZAR IMÁGENES FÁCILMENTE
 
-Podemos arrastrar la imagen desde el explorador de la izquierda e introducirlo en el código manteniendo pulsado el shift.
+Primero arrastrar la imagen desde el explorador de la izquierda y segundo mantener el shift para introducirlo en el código.
 
-También podemos escribir un `.` y ``/` dentro de los paréntesis para poner la ruta.
+También podemos escribir un `.` y `/` dentro de los paréntesis para poner la ruta.
 
 ## CONTROL DE CÓDIGO FUENTE
 
