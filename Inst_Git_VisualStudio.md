@@ -8,13 +8,13 @@
 
 ## INSTALACIÓN
 
-Instalamos el Visual Studio Code primero, opciones por defecto.
+Instalamos el Visual Studio Code primero, opciones por defecto en lo general.
 
-Después instalamos el Git, cuando nos pregunte que editor nos debe pillar el Visual Studio Code.
+Después instalamos el Git, cuando nos pregunte que editor usar, nos debe pillar el Visual Studio Code.
 
 ![AltText](./img/Git/2.png)
 
-Todo lo demás por vale defecto o lo que necesites.
+Todo lo demás se queda por defecto o cambia lo que necesites.
 
 Abrimos el Visual Studio Code, vamos a la pestaña de la izquierda de `Control de código fuente` y ahi decidimos si queremos usar un repositorio que esta en el equipo local (abrir carpeta) o clonar uno que se encuentre en GitHub.
 
@@ -24,7 +24,9 @@ En mi caso ya lo tengo en GitHub así que lo voy a clonar, sino tendrías que cr
 
 Nos pide la URL del repositorio en GitHub. La introducimos y nos dice en que carpeta guardar el repositorio. Y ya podemos modificar nuestro repositorio.
 
-> - Para hacer cambios en el GitHub, recuerda que tienes que introducir el usuario y correo en la configuración de Git.
+> - Para hacer cambios en el GitHub, recuerda que tienes que introducir el usuario y correo en la configuración de Git.  
+> - Si ya tienes el Git instalado, cambia de editor a Visual Studio Code con:  
+ `git config --global core.editor "code --wait"`
 
 ## MANEJO DE LA INTERFAZ
 
